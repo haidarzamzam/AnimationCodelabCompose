@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnimationCodelab</string>
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">18 ℃</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_tasks">ADD TASKS</string>
+    <string name="topics">Topics</string>
+    <string-array name="topics">
+        <item>Compose essentials</item>
+        <item>Layouts, theming, and animation</item>
+        <item>Architecture and state</item>
+        <item>Accessibility, testing, and performance</item>
+        <item>Form factors</item>
+    </string-array>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="edit">EDIT</string>
+    <string name="edit_message">Edit feature is not supported</string>
+    <string name="refresh">Refresh</string>
+</resources>
